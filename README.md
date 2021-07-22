@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on a revolutionary calendar and reminder app that is cross platform on all Apple hardware
+- 😱 About me: I am an 18 year old, trying to be a computer scientist, currently waiting to hopefully start univeristy in September
+- 📲 I have gotten my first app on the macOS app store called Time Left Until, check it out, you might release sooner or later that you are getting older and older 😅
+
+
+<img src="https://i.ibb.co/jhvKbJK/Screenshot-2021-07-22-at-11-53-53.png" alt="image text" title="imae Title" />
+
 <!--
 **TheFrenchGuy/TheFrenchGuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
