@@ -1,9 +1,9 @@
 # Hi there 👋
 
-- 🔭 I’m currently working on a revolutionary notetaking app for your daily needs, cross platform on Apple Devices
-- 😱 About me: I am an 18 year old, trying to be a computer scientist, currently a second year at St. Andrews
+- 🔭 I’m currently a Summer Software Engineer Intern at Pierlis working on a macOS app
+- 😱 About me: I am an 19 year old, penultimate year at the University of St Andrews studying Computer Science
 - 📲 I have gotten my first two app on the macOS app store called toDoToday. and Time Left Until, check it out, the code is openely available on GitHub.
-- 🌱 I’m currently learning Haskell.
+- 🌱 I’m currently learning React.
 - 📫 How to reach me: <div id="badges">
   <a href="https://www.linkedin.com/in/noé-de-la-croix-2a3a33234/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
