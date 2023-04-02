@@ -1,6 +1,5 @@
 # Hi there 👋
 
-- 🔭 I’m currently a Summer Software Engineer Intern at Pierlis working on a macOS app
 - 😱 About me: I am an 19 year old, penultimate year at the University of St Andrews studying Computer Science
 - 📲 I have gotten my first two app on the macOS app store called toDoToday. and Time Left Until, check it out, the code is openely available on GitHub.
 - 🌱 I’m currently learning React.
